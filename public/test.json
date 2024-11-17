@@ -1,0 +1,12 @@
+{
+    "articles": [
+      {
+        "source": { "name": "Example Source" },
+        "title": "Example Title",
+        "description": "Example Description",
+        "urlToImage": "https://example.com/image.jpg"
+      }
+    ],
+    "totalResults": 100
+  }
+  
